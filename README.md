@@ -15,3 +15,4 @@ Or [Contact me](https://solo.to/omarxtream).
 ## Credits
 
 -   [OmarXtream](https://github.com/OmarXtream)
+-   [Norah](https://github.com/NORAHALSAEDI)
